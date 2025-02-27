@@ -13,7 +13,11 @@ Frontend: HTML, CSS, FontAwesome
 
 #Features
 
-✅ Fully responsive Amazon UI clone with structured layouts✅ Dynamic navigation bar with search & category selection✅ Product grid layout with multiple categories (Electronics, Clothing, Furniture, etc.)✅ Hover effects & interactive styling for an improved UI✅ Footer & information panels, mirroring Amazon’s layout
+✅ Fully responsive Amazon UI clone with structured layouts
+✅ Dynamic navigation bar with search & category selection
+✅ Product grid layout with multiple categories (Electronics, Clothing, Furniture, etc.)
+✅ Hover effects & interactive styling for an improved UI
+✅ Footer & information panels, mirroring Amazon’s layout
 
 #Installation Guide
 
